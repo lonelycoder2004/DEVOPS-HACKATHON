@@ -3,3 +3,4 @@ opencv-python
 numpy
 deepface
 python-dotenv
+tf-keras
